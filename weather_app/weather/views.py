@@ -6,7 +6,7 @@ from .forms import CityForm
 
 # Create your views here.
 def index(request):
-    url = 'http://api.openweathermap.org/data/2.5/weather?q={}&units=imperial&appid=4d2a19785869407417d1230d80983438'
+    url = 'this api key generated is in my system project folder cant be shown as this is public repo'
     err_msg = ''
     message = ''
     message_class = ''
